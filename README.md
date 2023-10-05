@@ -7,3 +7,5 @@
 
 Some other stuff:  
 - [My NFSMods Profile Page](https://nfsmods.xyz/user/31)
+
+🤑 Wanna sponsor me? Check out my [GitHub Sponsors](https://github.com/sponsors/nlgxzef) page!
